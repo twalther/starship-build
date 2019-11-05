@@ -37,5 +37,3 @@ tar -cvzf starship-$(cat ../.version)-centos-7.6.1810.tar.gz starship
 cp starship starship-$(cat ../.version)-centos-7.6.1810
 
 cd ..
-
-rm .version
