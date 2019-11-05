@@ -1,2 +1,2 @@
 # starship-build
-Builds Starship on Centos 7.6
+Builds [Starship](https://starship.rs/) on Centos 7.6.
